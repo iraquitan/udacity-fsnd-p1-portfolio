@@ -1,0 +1,9 @@
+.thumbnail{
+    margin-top: 20px;
+}
+
+.thumbnail img{
+    width: 350px;
+    height: 250px;
+    overflow: hidden;
+}
