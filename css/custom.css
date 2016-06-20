@@ -7,3 +7,8 @@
     height: 250px;
     overflow: hidden;
 }
+
+.page-header img{
+    border: 1px #3c3c3c;
+    height: 100px;
+}
