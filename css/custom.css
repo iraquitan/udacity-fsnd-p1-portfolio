@@ -8,6 +8,10 @@
     overflow: hidden;
 }
 
+.page-header {
+    border-bottom: medium solid #7d97ad;
+}
+
 .page-header img{
     max-height: 80px;
     float: left;
