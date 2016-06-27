@@ -1,12 +1,12 @@
-body{
+body {
     font-family: 'Source Sans Pro', sans-serif;
 }
 
-.thumbnail{
+.thumbnail {
     margin-top: 20px;
 }
 
-.thumbnail img{
+.thumbnail img {
     width: 350px;
     height: 250px;
     overflow: hidden;
@@ -16,7 +16,7 @@ body{
     border-bottom: medium solid #7d97ad;
 }
 
-.page-header img{
+.page-header img {
     max-height: 80px;
     float: left;
 }
